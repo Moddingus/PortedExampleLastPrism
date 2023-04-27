@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZTMUjKy5GVzr4d+yFbtmNW03JPM1O7NNe2R0jmhSdFoV8SqIqRKgpJ0mKUiB3voxJZ8emzwyYgwZj0P1Kf8oQQ==",
+  "success": true,
+  "projectFilePath": "/Users/max/Library/Application Support/Terraria/tModLoader/ModSources/ExampleMod/ExampleMod.csproj",
+  "expectedPackageFiles": [
+    "/Users/max/.nuget/packages/tmodloader.codeassist/0.1.5/tmodloader.codeassist.0.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}
