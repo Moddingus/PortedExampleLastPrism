@@ -128,7 +128,7 @@ namespace ExampleMod.Projectiles
 
         private void UpdateDamageForManaSickness(Player player)
         {
-            float ownerCurrentMagicDamage = player.GetDamage(DamageClass.Generic).Base + (player.GetDamage(DamageClass.Magic).Base - 1f);
+            float ownerCurrentMagicDamage = player.GetTotalDamage(DamageClass.Magic).Base + 1f;
             Projectile.damage = (int)(player.HeldItem.damage * ownerCurrentMagicDamage);
         }
 
